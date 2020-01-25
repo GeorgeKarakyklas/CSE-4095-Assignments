@@ -4,10 +4,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Toast;
 
-//
-//Author Name: George Karakyklas
-//
-
 public class MainActivity extends AppCompatActivity {
 
     //Variable to be altered in the exercise.
